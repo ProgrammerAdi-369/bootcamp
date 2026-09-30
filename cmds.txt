@@ -1,0 +1,12 @@
+1. npm init -y
+
+2. npm i express
+
+3. npm i nodemon
+
+4. npm i jsonwebtoken
+
+5. npm i dotenv
+
+6. openssl rand -hex 32 (bash)
+
